@@ -18,7 +18,10 @@ After taking a look at the application, you have assesed that you need to comple
 
 - Finish the **ListTable** component so that the items in the grocery list will display inside of a table
 - Add buttons within the table that will remove, select, and deselect and item from the list (you will need to write custom reducers and action creators for each of those actions).
-- Finish the **ListSelection** component so that when an item inside the table is clicked, it will display inside of that component
+- Finish the **ListSelection** component so that when an item inside the table is clicked, it will display inside of that component.
+- Make sure that each component has at least one test written for it, and that it tests functionality of that component. (You may use any testing library you are comfortable with, jest is included).
+
+- BONUS: Remove "Immutability Helper" from the project. 
 
 #### Helpful Hints & Constraints
 
