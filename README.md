@@ -20,6 +20,7 @@ After taking a look at the application, you have assesed that you need to comple
 - Add buttons within the table that will remove, select, and deselect and item from the list (you will need to write custom reducers and action creators for each of those actions).
 - Finish the **ListSelection** component so that when an item inside the table is clicked, it will display inside of that component.
 - Make sure that each component has at least one test written for it, and that it tests functionality of that component. (You may use any testing library you are comfortable with, jest is included).
+- Hooks are the wave of the future, implement a hook of your choice in this application.
 
 - BONUS: Remove "Immutability Helper" from the project. 
 
@@ -36,8 +37,8 @@ After taking a look at the application, you have assesed that you need to comple
 1. Fork this Codesandbox and add your last name onto the end of the title
 2. Either continue writing in code sandbox or you can opt to connect it to your GitHub account and clone the repo to work locally
 3. If you run it locally... follow 4 - 6. If you elect to keep using Code sandbox, do your thing.
-4. run `yarn`
-5. run `yarn start`
+4. run `npm i`
+5. run `npm start`
 6. open to http://localhost:3000/
 
 ## Exercise Contraints
